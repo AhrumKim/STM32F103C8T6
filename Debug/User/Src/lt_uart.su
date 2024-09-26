@@ -1,0 +1,2 @@
+../User/Src/lt_uart.c:18:5:__io_putchar	16	static
+../User/Src/lt_uart.c:27:6:HAL_UART_RxCpltCallback	16	static

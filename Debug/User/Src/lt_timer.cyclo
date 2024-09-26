@@ -1,0 +1,5 @@
+../User/Src/lt_timer.c:15:6:timer_value_decrease_function	3
+../User/Src/lt_timer.c:25:6:set_can_rx_led_duration_timer	1
+../User/Src/lt_timer.c:34:10:get_can_rx_led_duration_timer	1
+../User/Src/lt_timer.c:51:6:set_can_tx_led_duration_timer	1
+../User/Src/lt_timer.c:60:10:get_can_tx_led_duration_timer	1

@@ -1,0 +1,2 @@
+../User/Src/lt_systick.c:17:6:inc_systick	1
+../User/Src/lt_systick.c:26:10:get_systick	1
